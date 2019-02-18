@@ -136,11 +136,7 @@ for($i=1;$i<=10;$i++){
 	
 	echo"<br>";
 }
-
-
-echo"ola";
-
-
+echo"ola gente bonita"; 
 
 
 
