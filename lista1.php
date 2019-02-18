@@ -102,3 +102,4 @@ if($nume1=$nume2){
 }elseif($nume1<$nume2){
     echo"O segundo número é maior do que o primeiro<br>";
 }
+echo"oi";
