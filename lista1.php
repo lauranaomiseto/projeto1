@@ -136,13 +136,5 @@ for($i=1;$i<=10;$i++){
 	
 	echo"<br>";
 }
-echo"ola gente bonita"; 
 
-
-
-
-
-
-
-
-
+echo"i did it!";
